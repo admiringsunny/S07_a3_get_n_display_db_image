@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">S07A3 BLOB</string>
+    <string name="emp_list">Employees</string>
+    <string name="tutorial">Tap + to add Employee.\nSelect Employee to view.</string>
+    <string name="btn_img">Select Photo</string>
+    <string name="btn_save">Save</string>
+    <integer name="maxLen">2</integer>
+</resources>
